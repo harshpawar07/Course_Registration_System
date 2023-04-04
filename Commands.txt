@@ -1,0 +1,17 @@
+Commands to run the given project :- 
+
+
+Step1 :- Open the Terminal
+
+
+Step 2 :- Go to particular path where the program was saved in the directory.
+
+
+Step 3 :- Type the below command  :-  
+			node server.js
+
+
+Step 4 :- Go to Any Browser and type in url box :-  
+			localhost:3000 
+
+
